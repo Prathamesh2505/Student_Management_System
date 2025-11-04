@@ -9,7 +9,7 @@ import studentDAO.StudentDAO;
 import studentDAO.StudentDAOImp;
 
 @WebServlet("/editUser")
-public class EditUserServlet extends HttpServlet {
+public class EditUser extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
