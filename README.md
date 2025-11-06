@@ -1,2 +1,2 @@
 
-# Student-Management-System-JSP-Servlet
+# Student Management System Based on JSP & Servlet
